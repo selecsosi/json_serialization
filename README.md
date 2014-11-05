@@ -1,7 +1,7 @@
 # Json Serialization/Deserialization
 
 This library showcases some of the functionality around serializing and deserializing objects
-using the json library
+using the json library. The main functionality is demonstraited in the test suite located in tests/test_core.py
 
 To run the tests execute
 
