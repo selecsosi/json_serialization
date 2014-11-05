@@ -9,4 +9,4 @@ To run the tests execute
 
 from the top level directory
 
-Don't forget to install the requirements
+Don't forget to install the requirements `pip install -r requirements.txt`
